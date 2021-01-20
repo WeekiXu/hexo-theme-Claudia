@@ -17,10 +17,10 @@ social:
   facebook: /
   linkedin:
   instagram: /
-  github: WeekiXu
+  github: haojen
 
 user:
-  name: WeekiXu
+  name: Haojen
   avatar: /images/avatar.jpg
   location: In the dust
   description: May the Force be with you
@@ -29,10 +29,9 @@ user:
 # API config: https://utteranc.es/
 comment_utteranc:
   enable: true
-  repo: WeekiXu/blog # your blog repo
+  repo: Haojen/Claudia-theme-blog # your blog repo
 
-# auto
 # dark
 # light
 # user-can-set
-appearance: dark # Default value is auto
+appearance: auto # Default value is auto
